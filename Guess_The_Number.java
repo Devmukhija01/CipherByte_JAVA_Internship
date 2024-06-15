@@ -5,10 +5,6 @@
 package guess_the_number;
 import java.util.Random;
 import java.util.Scanner;
-/**
- *
- * @author karti
- */
 public class Guess_The_Number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
